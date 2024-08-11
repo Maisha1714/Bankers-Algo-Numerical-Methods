@@ -1,1 +1,1 @@
-# Bankers-Algo-Numerical-Methods
+# Numerical-Methods
